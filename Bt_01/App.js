@@ -81,7 +81,7 @@ export default function App() {
           </View>
 
           <View style={styles.studentInfo}>
-            <Text style={styles.studentName}>Nguyễn Doãn Huy - BIT2401156</Text>
+            <Text style={styles.studentName}>Nguyễn Doãn Huy - BIT240115</Text>
             {selectedTile ? (
               <Text style={styles.selectionHint}>Đã chọn ô {selectedTile}</Text>
             ) : null}
