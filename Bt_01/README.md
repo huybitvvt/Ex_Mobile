@@ -6,6 +6,10 @@ Sinh viên: **Nguyễn Doãn Huy - BIT240115**
 
 ![Giao diện Bt_01 trên Android Emulator](giao-dien.png)
 
+## Video thuyết minh
+
+[Xem video trình bày và giải thích bài tập](video-giai-thich-bt01.mp4)
+
 ## Chạy ứng dụng
 
 ```bash
