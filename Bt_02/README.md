@@ -8,6 +8,10 @@ Bài tập xây dựng giao diện 6 khối màu bằng Android Native và Kotli
 
 ![Đề bài](de-bai.jpg)
 
+## Video thuyết minh
+
+[Xem video trình bày và giải thích bài tập](video-thuyet-trinh-bt02.mp4)
+
 ## Cấu trúc giao diện
 
 - **Tổng thể:** Sử dụng `LinearLayout` chiều dọc (`VERTICAL`) bao trọn màn hình.

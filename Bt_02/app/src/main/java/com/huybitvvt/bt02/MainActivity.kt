@@ -11,7 +11,8 @@ import android.widget.LinearLayout
 import android.widget.Space
 import android.widget.TextView
 
-// Sinh vien: Nguyen Doan Huy - BIT240115
+
+// Nguyen Doan Huy - BIT240115
 class MainActivity : Activity() {
     private lateinit var selectedText: TextView
 
